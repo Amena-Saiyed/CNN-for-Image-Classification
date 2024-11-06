@@ -7,4 +7,4 @@ Key features:
 - Performance comparison with advanced models like ResNet-18 and DenseNet-121
 - Evaluation on CIFAR-10 dataset with accuracy and loss curves
 
-The repository is designed for educational purposes and can be used as a starting point for more advanced image classification tasks.
+
